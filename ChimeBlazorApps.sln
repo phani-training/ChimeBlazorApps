@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChimeBlazorApp", "ChimeBlazorApp\ChimeBlazorApp.csproj", "{43B47682-0010-4DC8-9B9E-818519B0FD0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43B47682-0010-4DC8-9B9E-818519B0FD0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B47682-0010-4DC8-9B9E-818519B0FD0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B47682-0010-4DC8-9B9E-818519B0FD0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B47682-0010-4DC8-9B9E-818519B0FD0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6880EE52-AE0D-4F02-B419-2022687A5B18}
+	EndGlobalSection
+EndGlobal
